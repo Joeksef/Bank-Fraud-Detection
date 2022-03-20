@@ -1,4 +1,4 @@
-# Bank-Faraud-Detection
+## Introduction
 This project work helps to detect Bank fraud by using given data. Supervised Machine learning algorithms was used to detect fraudulent behavior based upon past fraud as indicated in the “label” column, and the use of unsupervised Machine learning algorithms was employed to discover new types of fraud activities. Fraudulent transactions are rare compared to the norm. Hence, imbalanced datasets was properly classified. The project work provides technical insights and demonstrates the implementation of fraud detection models.
 ## Data Description
 The dataset consists of 37 columns and 190001 rows with the “label” column as its target column.
